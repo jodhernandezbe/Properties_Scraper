@@ -28,6 +28,7 @@ In order to use this code you need the following requirements:
    - argparse (https://pypi.org/project/argparse/)
    - pyyaml (https://pyyaml.org/wiki/PyYAMLDocumentation)
 
+If you would like to run the web scraping for CompTox, you must donwload the following large file: [DSSTox_Identifiers_and_CASRN.csv](https://drive.google.com/file/d/1zVbWBCTZiKXhtW7iMZ_vPchlRgqxJhxd/view?usp=sharing)
 
 ## How to use
 
